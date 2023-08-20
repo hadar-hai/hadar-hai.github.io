@@ -1,4 +1,4 @@
-# GNC Systems Engineer, Artificial intelligence Engineer
+# Artificial Intelligence Engineer
 
 #### Technical Skills: MATLAB, SIMULINK, PYTHON, ...
 
