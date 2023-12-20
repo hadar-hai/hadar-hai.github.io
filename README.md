@@ -15,6 +15,6 @@
 **Autonomous Drone Navigation in an Urban Environment** - [GitHub Page](https://github.com/hadar-hai/AutonomousDroneNav)
 
 <p align="center">
-<img src="https://github.com/hadar-hai/hadar-hai.github.io/raw/main/assets/img/AutDroneNavTeaser.gif" style="height:350px">
+<img src="https://github.com/hadar-hai/hadar-hai.github.io/raw/main/assets/img/AutDroneNavTeaser.gif" style="max-height:350px">
 </p>
 
