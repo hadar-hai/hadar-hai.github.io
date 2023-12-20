@@ -1,6 +1,6 @@
 # Hadar Hai | Engineering MSc Candidate and Tech Enthusiast
 
-👋 Hi there! I'm Hadar, a passionate  engineer fascinated by Machine Learning and AI.
+👋 Hi there! I'm Hadar, a passionate  engineer fascinated by Machine Learning and Artificial intelligence.
 <p>I'm a candidate for MSc at the <a href="https://www.technion.ac.il/en/home-2/">Technion, Israel Institute of Technology</a>, enrolled in the <a href="https://tasp-technion.org/">Technion Autonomous Systems Program </a>.</p>
 <p>I completed my BSc in <a href="https://aerospace.technion.ac.il/"> Aerospace Engineering </a> with honors (Cum Laude) at the Technion. </p>
 <p>Feel free to reach out to me at <code class="language-plaintext highlighter-rouge">hadar.hai@campus.technion.ac.il</code>.</p>
@@ -17,7 +17,7 @@
 
 ## Work Experience Overview
 
-Skills: Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix
+Skills: Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · AI · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix
 
 <p><b>GNC Systems Engineer - Space Division, Elbit Systems Ltd</b></p>
 <p>Full Time | Aug 2020 - Present</p>
