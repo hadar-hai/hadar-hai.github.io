@@ -19,17 +19,17 @@
 
 Skills: Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix
 
-  #### GNC Systems Engineer - Space Division, Elbit Systems Ltd
-<p>Full Time | Aug 2020 - Present<p/>
+<p><b>GNC Systems Engineer - Space Division, Elbit Systems Ltd</b></p>
+<p>Full Time | Aug 2020 - Present</p>
 
-  #### Algorithms Engineer - Space Division, Elbit Systems Ltd
-<p> Internship | Jun 2019 - Aug 2020<p/>
-  
-  #### Aerodynamics Engineer - Rafael Advanced Defense Systems
-<p> Internship | Jan 2018 - Jul 2019<p/>
-  
-  ####  Satellite Operator, Software Developer and Product Manager - Unit 9900 - Israeli Intelligence Corps 
-<p> Military Service | Sep 2013 - Apr 2016<p/>
+<p><b>Algorithms Engineer - Space Division, Elbit Systems Ltd</b></p>
+<p> Internship | Jun 2019 - Aug 2020</p>
+
+<p><b>Aerodynamics Engineer - Rafael Advanced Defense Systems</b></p>
+<p> Internship | Jan 2018 - Jul 2019</p>
+
+<p><b>Satellite Operator, Software Developer and Product Manager - Unit 9900 - Israeli Intelligence Corps</b></p> 
+<p> Military Service | Sep 2013 - Apr 2016</p>
 
 ## Projects
 
