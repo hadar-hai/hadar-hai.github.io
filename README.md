@@ -1,9 +1,9 @@
-# Hadar Hai | Engineering MSc Candidate and Tech Enthusiast
+# Hadar Hai | Engineering MSc Student and Tech Enthusiast
 
 👋 Hi there! I'm Hadar, a passionate  engineer fascinated by Machine Learning and Artificial Intelligence.
-<p>I'm a candidate for MSc at the <a href="https://www.technion.ac.il/en/home-2/">Technion, Israel Institute of Technology</a>, enrolled in the <a href="https://tasp-technion.org/">Technion Autonomous Systems Program</a>.</p>
-<p>I completed my BSc in <a href="https://aerospace.technion.ac.il/"> Aerospace Engineering </a> with honors (Cum Laude) at the Technion. </p>
-<p>Feel free to reach out to me at <code class="language-plaintext highlighter-rouge">hadar.hai@campus.technion.ac.il</code>.</p>
+<p>I'm a student for MSc at the <a href="https://www.technion.ac.il/en/home-2/">Technion, Israel Institute of Technology</a>, enrolled in the <a href="https://tasp-technion.org/">Technion Autonomous Systems Program</a>.</p>
+<p>I completed my BSc in <a href="https://aerospace.technion.ac.il/">Aerospace Engineering</a> with honors (Cum Laude) at the Technion. </p>
+<p>Feel free to reach out to me at <code class="language-plaintext highlighter-rouge">hadar dot hai at campus dot technion dot ac dot il</code>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hadar-hai/"><img src="https://github.com/taldatech/taldatech.github.io/raw/main/img/linkedin.png" style="height:32px" /></a>&nbsp;&nbsp;
@@ -12,12 +12,11 @@
 
 
 ## Education
-- MSc, Autonomous Systems and Robotics | Technion – Israel Institute of Technology (_October 2022 - now_)	 			        		
-- BSc, Aerospace Engineering              | Technion – Israel Institute of Technology (_August 2020_)
+
+<p> &#8226; MSc, Autonomous Systems and Robotics | Technion – Israel Institute of Technology (<i>Oct 2022 - now</i>)</p>	 			        		
+<p> &#8226; BSc, Aerospace Engineering | Technion – Israel Institute of Technology (<i>Aug 2020</i>)</p>
 
 ## Work Experience Overview
-
-Skills: Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · AI · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix
 
 <p><b>GNC Systems Engineer - Space Division, Elbit Systems Ltd</b></p>
 <p>Full Time | Aug 2020 - Present</p>
@@ -39,3 +38,5 @@ Skills: Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · M
 <img src="https://github.com/hadar-hai/hadar-hai.github.io/raw/main/assets/img/AutDroneNavTeaser.gif" style="max-height:350px">
 </p>
 
+## Skills 
+Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · Artificial Intelligence · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix
