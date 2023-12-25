@@ -39,4 +39,4 @@
 </p>
 
 ## Skills 
-Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · Artificial Intelligence · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix · Git
+Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · Artificial Intelligence · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix · Git · SVN
