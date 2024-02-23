@@ -35,7 +35,7 @@
 **Autonomous Drone Navigation in an Urban Environment** - [GitHub Page](https://github.com/hadar-hai/AutonomousDroneNav)
 
 <p align="center">
-<img src="https://github.com/hadar-hai/hadar-hai.github.io/raw/main/assets/img/AutDroneNavTeaser.gif" style="max-height:350px">
+<img src="https://github.com/hadar-hai/hadar-hai.github.io/raw/main/assets/img/AutDroneNavTeaser.gif" width="400" style="max-height:350px">
 </p>
 
 **Offline Reinforcement Learning-Based Human Guide Robot for Visually Impaired
