@@ -45,5 +45,11 @@ Navigation** - [GitHub Page](https://github.com/hadar-hai/GuideRobotOfflineRL.gi
 <img src="https://github.com/hadar-hai/GuideRobotOfflineRL/assets/64587231/d097fe0c-f899-40dd-8ff4-17ee6caf7300" width="400" alt="data_collection_2_players">
 </p>
 
+**ViT vs. CNN on Elephants** - [GitHub Page](https://github.com/hadar-hai/vit-vs-cnn-on-elephants.git)
+
+<p align="center">
+<img src="https://github.com/hadar-hai/hadar-hai.github.io/assets/64587231/6577f9d5-b1af-4527-beb5-3fa6572df752" width="400" alt="data_collection_2_players">
+</p>
+
 ## Skills 
 Object-Oriented Programming (OOP) · Algorithms · MATLAB · Python · Machine Learning · Artificial Intelligence · Guidance Navigation & Control · Creative Problem Solving · Teamwork · Communication · Matrix Management · Systems Engineering · Technical Presentations · Simulink · Space Systems · Flight Dynamics · Aerodynamics · C, C# · Unix · Git
