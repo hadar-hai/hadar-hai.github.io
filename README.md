@@ -18,8 +18,11 @@
 
 ## Work Experience Overview
 
+<p><b>R&D Systems Engineer - Aerospace Division, Elbit Systems Ltd</b></p>
+<p>Full Time | March 2024 - Present</p>
+
 <p><b>GNC Systems Engineer - Space Division, Elbit Systems Ltd</b></p>
-<p>Full Time | Aug 2020 - Present</p>
+<p>Full Time | Aug 2020 - March 2024</p>
 
 <p><b>Algorithms Engineer - Space Division, Elbit Systems Ltd</b></p>
 <p> Internship | Jun 2019 - Aug 2020</p>
